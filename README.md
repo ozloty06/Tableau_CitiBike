@@ -53,6 +53,3 @@ Before the Des Moines bike share program can launch, it would be beneficial to f
 - age distribution of customers and subscribers to ensure a comparable market of the right size exists in our midwest city.
 - subscription data to better understand the price point, length of membership, appetite for tiered subscriptions, usage patterns by subscription type, etc.
 - non-customer data to provide insight into operational costs, including bike repair and maintenance, life cycle of bike equipment, liability exposures, shrinkage and theft issues, etc.
-
-
-
